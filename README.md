@@ -5,9 +5,9 @@
 ## Linear Regression to Predict MPG
 <img width="537" alt="Screen Shot 2021-12-18 at 9 45 15 AM" src="https://user-images.githubusercontent.com/89098766/146645096-2e9c1855-7bcc-4417-80ac-5fe58c99af2a.png">
 
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Is the slope of the linear model considered to be zero? Why or why not?
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- The vehicle length and ground clearance variables provide a non-random amount of variance to the MPG values.
+- The slope of the model is not considered to be zero because the p-value is smaller than our assumed significance value of 0.05%
+- The linear model effectively predicts MPG of MechaCar prototypes. The R squared value is 0.7149, meaning the model's predictions will be correct approximately 71.5% of the time.
 
 ## Summary Statistics on Suspenstion Coils
 <img width="335" alt="Screen Shot 2021-12-18 at 10 01 00 AM" src="https://user-images.githubusercontent.com/89098766/146645538-5fa8e959-b1e5-4d7d-8373-fac79a537517.png">
